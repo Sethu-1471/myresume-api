@@ -1,0 +1,20 @@
+{
+  "certification": [
+    {
+      "image": "https://sethu1431.github.io/myresume-api/images/certification/1.JPG"
+    },
+    {
+      "image": "https://sethu1431.github.io/myresume-api/images/certification/2.JPG"
+    }
+  ],
+  "album": [
+    {
+      "theme": "my friends",
+      "image": "https://sethu1431.github.io/myresume-api/images/album/1.JPG"
+    },
+    {
+      "theme": " my logos",
+      "image": "https://sethu1431.github.io/myresume-api/images/album/2.JPG"
+    }
+  ]
+}
